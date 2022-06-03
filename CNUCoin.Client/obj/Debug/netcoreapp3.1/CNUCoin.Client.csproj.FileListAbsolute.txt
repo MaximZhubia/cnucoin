@@ -1,0 +1,17 @@
+C:\Projects\CNUCoin\CNUCoin.Client\bin\Debug\netcoreapp3.1\CNUCoin.Client.exe
+C:\Projects\CNUCoin\CNUCoin.Client\bin\Debug\netcoreapp3.1\CNUCoin.Client.deps.json
+C:\Projects\CNUCoin\CNUCoin.Client\bin\Debug\netcoreapp3.1\CNUCoin.Client.runtimeconfig.json
+C:\Projects\CNUCoin\CNUCoin.Client\bin\Debug\netcoreapp3.1\CNUCoin.Client.runtimeconfig.dev.json
+C:\Projects\CNUCoin\CNUCoin.Client\bin\Debug\netcoreapp3.1\CNUCoin.Client.dll
+C:\Projects\CNUCoin\CNUCoin.Client\bin\Debug\netcoreapp3.1\CNUCoin.Client.pdb
+C:\Projects\CNUCoin\CNUCoin.Client\obj\Debug\netcoreapp3.1\CNUCoin.Client.AssemblyInfoInputs.cache
+C:\Projects\CNUCoin\CNUCoin.Client\obj\Debug\netcoreapp3.1\CNUCoin.Client.AssemblyInfo.cs
+C:\Projects\CNUCoin\CNUCoin.Client\obj\Debug\netcoreapp3.1\CNUCoin.Client.dll
+C:\Projects\CNUCoin\CNUCoin.Client\obj\Debug\netcoreapp3.1\CNUCoin.Client.pdb
+C:\Projects\CNUCoin\CNUCoin.Client\obj\Debug\netcoreapp3.1\CNUCoin.Client.genruntimeconfig.cache
+C:\Projects\CNUCoin\CNUCoin.Client\obj\Debug\netcoreapp3.1\CNUCoin.Client.csprojAssemblyReference.cache
+C:\Projects\CNUCoin\CNUCoin.Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\CNUCoin\CNUCoin.Client\obj\Debug\netcoreapp3.1\CNUCoin.Client.csproj.CoreCompileInputs.cache
+C:\Projects\CNUCoin\CNUCoin.Client\obj\Debug\netcoreapp3.1\CNUCoin.Client.csproj.CopyComplete
+C:\Projects\CNUCoin\CNUCoin.Client\bin\Debug\netcoreapp3.1\CNUCoin.Common.dll
+C:\Projects\CNUCoin\CNUCoin.Client\bin\Debug\netcoreapp3.1\CNUCoin.Common.pdb

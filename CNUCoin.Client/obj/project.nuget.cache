@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IQ5sQFCtWeajnQ976u0evV7H+4ZgMXtFD3a2qZWpT7hWIVu++ArdvSrnp+V+cpePObT4aVJgTc6/ZLqkoOhNrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Max\\IdeaProjects\\CNUCoin\\CNUCoin.Client\\CNUCoin.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Max\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
